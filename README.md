@@ -6,3 +6,4 @@ This example focus mainly on Git and Using GitHub as remote.
 This repository is built step by step in the tutorial.
 
 It now includes step for GitHub
+
